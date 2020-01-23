@@ -17,10 +17,10 @@
         "homepage": null,
         "owner": "balsoft",
         "repo": "lambda-launcher",
-        "rev": "b35c41e10b5758eeddc3d6992b2bf53d11bbea03",
-        "sha256": "08b64i7irlin16fpa8vahypdxlv5qhjlpmfnsbm9pwmlhf9fmjzm",
+        "rev": "f2e6865f319930ba999b55754585fbd12775b950",
+        "sha256": "1n4zv83yysmnqjrfqdrz1hlndqvm8ysl15sdrxs5fpgcn7cayjgx",
         "type": "tarball",
-        "url": "https://github.com/balsoft/lambda-launcher/archive/b35c41e10b5758eeddc3d6992b2bf53d11bbea03.tar.gz",
+        "url": "https://github.com/balsoft/lambda-launcher/archive/f2e6865f319930ba999b55754585fbd12775b950.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nix-patch": {
